@@ -37,7 +37,7 @@ pip install matplotlib nltk numpy pandas scikit-learn spacy tensorflow textblob 
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/Aditya3815/NLP_Project_Group52.git
+   git clone https://github.com/Aditya3815/NLP_Project_Group52.git
    cd NLP_Project_Group52
    ```
 
