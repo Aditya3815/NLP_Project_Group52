@@ -70,6 +70,16 @@ The notebook produces:
 
 ---
 
+## 📁 Dataset
+
+This project uses a dataset containing **25,000 product reviews**, stored in a CSV file.
+
+- **Filename:** `CSV_IPR.csv`
+- **Description:** The dataset includes product reviews that are used for training, testing, and evaluating the sentiment analysis models.
+- **Usage:** Make sure the CSV file is placed in the root directory of the project or update the notebook path accordingly.
+
+---
+
 ## 📬 Contact
 
 Feel free to reach out if you have any questions or feedback!
